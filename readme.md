@@ -1,3 +1,3 @@
-my name is miles. i (try) to design drugs using computers. 
+PhD student in computational medicinal chemistry and cheminformatic
 
-i suppose it's fun.
+Senior member of Wren Research Group at Kingston Univeristy
